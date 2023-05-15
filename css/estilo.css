@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @font-face {
 	font-family: "NES";
-	src: url(../_fonts/nes.ttf);
+	src: url(../fonts/nes.ttf);
 }
 html{
 	-webkit-text-size-adjust: none;

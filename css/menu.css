@@ -1,13 +1,13 @@
 @charset "UTF-8";
 @font-face {
 	font-family: "NES";
-	src: url(../_fonts/nes.ttf);
+	src: url(../fonts/nes.ttf);
 }
 a {
 	text-decoration: none;
 }
 body {
-	background-image: url(../_resources/Akane_night.gif);
+	background-image: url(../resources/Akane_night.gif);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100%;
