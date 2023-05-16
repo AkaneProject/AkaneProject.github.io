@@ -22,9 +22,9 @@ iframe {
 	padding-right: 0px;
 	margin-left: 5%;
 	margin-top: 5%;
-	box-shadow: 0px 0px 20px #00f;
+	box-shadow: 0px 0px 10px #0ff, inset 0px 0px 10px #0ff;
 	/*background-color: rgba(0,0,255,.25);*/
-	border-radius: 2px;
+	border-radius: 8px;
 }
 div.conteudo{
 	padding: 0;
